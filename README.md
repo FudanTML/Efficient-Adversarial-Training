@@ -12,6 +12,9 @@ Adversarial attacks have posed serious security concerns for DNN applications in
 In this project, we encourage you to develop pre-training methods that can learn the robust features in the pre-training phase. The model should be able to efficiently finetuned on downstream tasks using standard training or adversarial training with few epochs while maintaining the properties associated with robust features. 
 
 `Note：` Consider the challenge of the task above. You can choose one of the topics or other closely related topics in which you are interested.
+`Code:` You may follow the following as an example
+  - [RobustWRN](https://github.com/HanxunH/RobustWRN)
+  - [Masked Autoencoder](https://github.com/facebookresearch/mae)
 
 ### Reference 
 
