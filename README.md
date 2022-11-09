@@ -1,4 +1,4 @@
-# Efficient adversarial training
+# Efficient Adversarial Training
 
 ### Problem Statement
 
