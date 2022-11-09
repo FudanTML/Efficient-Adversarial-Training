@@ -29,4 +29,4 @@ In this project, we encourage you to develop pre-training methods that can learn
 [5] Shafahi, A., Najibi, M., Ghiasi, M. A., Xu, Z., Dickerson, J., Studer, C., ... & Goldstein, T. Adversarial training for free!. NeurIPS 2019.\
 [6] Ting Chen, Simon Kornblith, Mohammad Norouzi, and Geoffrey Hinton. A simple framework for contrastive learning of visual representations. In ICML, 2020.\
 [7] Kaiming He, Xinlei Chen, Saining Xie, Yanghao Li, Piotr Dollár, and Ross Girshick. Masked autoencoders are scalable vision learners. In CVPR, 2022.\
-[8] Hadi Salman, Andrew Ilyas, Logan Engstrom, Ashish Kapoor, and Aleksander Madry. Do adversarially robust imagenet models transfer better? In NeurIPS, 2020.
+[8] Wu, Zuxuan, et al. "That: Two head adversarial training for improving robustness at scale." arXiv preprint arXiv:2103.13612 (2021).
